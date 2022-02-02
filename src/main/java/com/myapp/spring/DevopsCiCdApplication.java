@@ -8,6 +8,7 @@ public class DevopsCiCdApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DevopsCiCdApplication.class, args);
+	System.out.println("hello");
 	}
 
 }
